@@ -1,6 +1,6 @@
-#!/bin/bash
+#!/usr/bin/env bash
 #
-# Purpose: Change settings in the Makefile to support compiling x86 PC 
+# Purpose: Change settings in the Makefile to support compiling x86 PC
 # operating systems for PC x86 Hardware.
 #
 # To make this file executable (if necessary):
